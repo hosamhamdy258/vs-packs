@@ -1,0 +1,23 @@
+{
+  "name": "js-pack",
+  "displayName": "js-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "burkeholland.simple-react-snippets",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "rikurouvila.typehole",
+    "rodrigovallades.es7-react-js-snippets",
+    "yoavbls.pretty-ts-errors",
+    "steoates.autoimport",
+    "NuclleaR.vscode-extension-auto-import"
+  ]
+}

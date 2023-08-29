@@ -1,0 +1,27 @@
+{
+  "name": "python-pack",
+  "displayName": "python-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "almenon.arepl",
+    "cstrap.python-snippets",
+    "donjayamanne.python-environment-manager",
+    "hamzarawal.py-add-to-path",
+    "KevinRose.vsc-python-indent",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "ms-python.pylint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "njqdev.vscode-python-typehint",
+    "sourcery.sourcery"
+  ]
+}

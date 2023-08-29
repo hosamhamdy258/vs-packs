@@ -1,0 +1,17 @@
+{
+  "name": "html-pack",
+  "displayName": "html-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "ritwickdey.LiveServer"
+  ]
+}

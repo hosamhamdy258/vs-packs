@@ -1,0 +1,20 @@
+{
+  "name": "c++pack",
+  "displayName": "c++pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.code-runner",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cpptools-themes",
+    "twxs.cmake"
+  ]
+}

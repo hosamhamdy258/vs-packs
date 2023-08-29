@@ -1,0 +1,22 @@
+{
+  "name": "django-pack",
+  "displayName": "django-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "baterson.copy-django-model-fields",
+    "batisteo.vscode-django",
+    "bibhasdn.django-html",
+    "kolo.kolo",
+    "noxiz.jinja-snippets",
+    "mrorz.language-gettext",
+    "joaompinto.vscode-graphviz",
+    "wholroyd.jinja"
+  ]
+}

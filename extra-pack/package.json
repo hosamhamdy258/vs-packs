@@ -1,0 +1,18 @@
+{
+  "name": "extra-pack",
+  "displayName": "extra-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "foxundermoon.shell-format",
+    "mechatroner.rainbow-csv",
+    "RajeshRenato.workspace-colors",
+    "rangav.vscode-thunder-client"
+  ]
+}

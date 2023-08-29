@@ -1,0 +1,20 @@
+{
+  "name": "git-pack",
+  "displayName": "git-pack",
+  "description": "for python projects",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "codezombiech.gitignore",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "GitHub.github-vscode-theme",
+    "GitHub.vscode-pull-request-github",
+    "ziyasal.vscode-open-in-github"
+  ]
+}
